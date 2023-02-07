@@ -1,0 +1,11 @@
+CREATE DATABASE [V6BO];
+USE [V6BO];
+
+-- CREATE TABLE [USERS]
+-- (
+--     UserId char(12) NOT NULL,
+--     UserName varchar(20) NOT NULL
+--     CONSTRAINT [PK_USERS] PRIMARY KEY (UserId ASC)
+-- );
+
+-- INSERT INTO [USERS] VALUES ('biadmin', 'ADMINISTRATOR');
